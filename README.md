@@ -59,21 +59,4 @@ I'm passionate about DSA  & Full-Stack Web Development.:bar_chart: Strong Advoca
 
 <br >
 
-## 🏆 Github Status
-
-<p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munov&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Adhikram&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-<div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/adhikram-maitra)
-
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://adhikram-maitra-portfolio.netlify.app/)
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-</div>
-
 
