@@ -31,7 +31,7 @@ I'm passionate about DSA  & Full-Stack Web Development.:bar_chart: Strong Advoca
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codechef.com/users/munish27 target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+<https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>  
 </div> 
 
