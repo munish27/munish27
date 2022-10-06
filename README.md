@@ -1,4 +1,4 @@
-![](https://github.com/Adhikram/Adhikram-/blob/master/media/footer.png)
+
 
 <h1 align="center"> नमस्ते (Namaste), I'm Munish Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
@@ -34,29 +34,4 @@ I'm passionate about DSA  & Full-Stack Web Development.:bar_chart: Strong Advoca
 <https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
-## 👨‍💻 Languages and Tools
-
-<div align="center">
-  
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
-
-<br>
-
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Adhikram/Adhikram-/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-</div>
-
-<br >
-
 
